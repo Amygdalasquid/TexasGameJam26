@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 571d505a08db069419ea4d73adb440ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3420697482504950086
+    second: GuyFall_Title_0
+  - first:
+      213: -1935370928256971342
+    second: GuyFall_Title_1
+  - first:
+      213: -4237655617428271740
+    second: GuyFall_Title_2
+  - first:
+      213: -4912909713489759052
+    second: GuyFall_Title_3
+  - first:
+      213: 3663763765842634381
+    second: GuyFall_Title_4
+  - first:
+      213: 1219289021763087010
+    second: GuyFall_Title_5
+  - first:
+      213: 505128398857885858
+    second: GuyFall_Title_6
+  - first:
+      213: -7156778822038062247
+    second: GuyFall_Title_7
+  - first:
+      213: -7750441897476114909
+    second: GuyFall_Title_8
+  - first:
+      213: 3897386149747022085
+    second: GuyFall_Title_9
+  - first:
+      213: 1453212288803614627
+    second: GuyFall_Title_10
+  - first:
+      213: -3281197220699816345
+    second: GuyFall_Title_11
+  - first:
+      213: -3046192540589873973
+    second: GuyFall_Title_12
+  - first:
+      213: 2330620731521741920
+    second: GuyFall_Title_13
+  - first:
+      213: -2054424275609971706
+    second: GuyFall_Title_14
+  - first:
+      213: 1617584952015215339
+    second: GuyFall_Title_15
+  - first:
+      213: -3472564343057283057
+    second: GuyFall_Title_16
+  - first:
+      213: -6455572574768538506
+    second: GuyFall_Title_17
+  - first:
+      213: -1796932999654083341
+    second: GuyFall_Title_18
+  - first:
+      213: -6718904652049700103
+    second: GuyFall_Title_19
+  - first:
+      213: -5481607417765745553
+    second: GuyFall_Title_20
+  - first:
+      213: -1442194238958737170
+    second: GuyFall_Title_21
+  - first:
+      213: 5502987695866177209
+    second: GuyFall_Title_22
+  - first:
+      213: -8113632414531145258
+    second: GuyFall_Title_23
+  - first:
+      213: -122017524791652533
+    second: GuyFall_Title_24
+  - first:
+      213: 2176893154774289725
+    second: GuyFall_Title_25
+  - first:
+      213: 2453372418006380162
+    second: GuyFall_Title_26
+  - first:
+      213: -1441866369929448602
+    second: GuyFall_Title_27
+  - first:
+      213: 276645752672881937
+    second: GuyFall_Title_28
+  - first:
+      213: -2646540526466799481
+    second: GuyFall_Title_29
+  - first:
+      213: 3908598945079006532
+    second: GuyFall_Title_30
+  - first:
+      213: -6319312638241600187
+    second: GuyFall_Title_31
+  - first:
+      213: 2889008929651118303
+    second: GuyFall_Title_32
+  - first:
+      213: -1021826990191222785
+    second: GuyFall_Title_33
+  - first:
+      213: 3730747835251866379
+    second: GuyFall_Title_34
+  - first:
+      213: 278722975992959854
+    second: GuyFall_Title_35
+  - first:
+      213: -1437936757774503418
+    second: GuyFall_Title_36
+  - first:
+      213: -9204302386270978828
+    second: GuyFall_Title_37
+  - first:
+      213: -4111206508112059214
+    second: GuyFall_Title_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuyFall_Title_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 14
+        width: 2651
+        height: 1432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faabd631d7a1c2a0800000000000000
+      internalID: -6718904652049700103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d7ff1c2d8b7fd3248b0b8b2bf4445a11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GuyFall_Title_0: 3420697482504950086
+      GuyFall_Title_1: -1935370928256971342
+      GuyFall_Title_10: 1453212288803614627
+      GuyFall_Title_11: -3281197220699816345
+      GuyFall_Title_12: -3046192540589873973
+      GuyFall_Title_13: 2330620731521741920
+      GuyFall_Title_14: -2054424275609971706
+      GuyFall_Title_15: 1617584952015215339
+      GuyFall_Title_16: -3472564343057283057
+      GuyFall_Title_17: -6455572574768538506
+      GuyFall_Title_18: -1796932999654083341
+      GuyFall_Title_19: -6718904652049700103
+      GuyFall_Title_2: -4237655617428271740
+      GuyFall_Title_20: -5481607417765745553
+      GuyFall_Title_21: -1442194238958737170
+      GuyFall_Title_22: 5502987695866177209
+      GuyFall_Title_23: -8113632414531145258
+      GuyFall_Title_24: -122017524791652533
+      GuyFall_Title_25: 2176893154774289725
+      GuyFall_Title_26: 2453372418006380162
+      GuyFall_Title_27: -1441866369929448602
+      GuyFall_Title_28: 276645752672881937
+      GuyFall_Title_29: -2646540526466799481
+      GuyFall_Title_3: -4912909713489759052
+      GuyFall_Title_30: 3908598945079006532
+      GuyFall_Title_31: -6319312638241600187
+      GuyFall_Title_32: 2889008929651118303
+      GuyFall_Title_33: -1021826990191222785
+      GuyFall_Title_34: 3730747835251866379
+      GuyFall_Title_35: 278722975992959854
+      GuyFall_Title_36: -1437936757774503418
+      GuyFall_Title_37: -9204302386270978828
+      GuyFall_Title_38: -4111206508112059214
+      GuyFall_Title_4: 3663763765842634381
+      GuyFall_Title_5: 1219289021763087010
+      GuyFall_Title_6: 505128398857885858
+      GuyFall_Title_7: -7156778822038062247
+      GuyFall_Title_8: -7750441897476114909
+      GuyFall_Title_9: 3897386149747022085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
