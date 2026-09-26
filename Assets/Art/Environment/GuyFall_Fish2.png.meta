@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 14d3b0baa3c2b8d43bd70d3d9f02f3f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1841760292373471416
+    second: GuyFall_Fish2_0
+  - first:
+      213: -5969088697364554456
+    second: GuyFall_Fish2_1
+  - first:
+      213: -2414668263017660731
+    second: GuyFall_Fish2_2
+  - first:
+      213: -8881646561869965819
+    second: GuyFall_Fish2_3
+  - first:
+      213: -6567437021009180971
+    second: GuyFall_Fish2_4
+  - first:
+      213: -6449261137998696596
+    second: GuyFall_Fish2_5
+  - first:
+      213: 5991684668539619030
+    second: GuyFall_Fish2_6
+  - first:
+      213: -4511553938213524610
+    second: GuyFall_Fish2_7
+  - first:
+      213: -5822523997124363535
+    second: GuyFall_Fish2_8
+  - first:
+      213: 8664356037952528637
+    second: GuyFall_Fish2_9
+  - first:
+      213: -6059297128845335314
+    second: GuyFall_Fish2_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuyFall_Fish2_0
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 4746
+        width: 890
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fd8aba5c0c076e0800000000000000
+      internalID: -1841760292373471416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuyFall_Fish2_1
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 5045
+        width: 324
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d59c09479892da0800000000000000
+      internalID: -5969088697364554456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuyFall_Fish2_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 3662
+        width: 1841
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce3c6c12006d7ed0800000000000000
+      internalID: -2414668263017660731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuyFall_Fish2_3
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 4670
+        width: 732
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506db2b428d0eb480800000000000000
+      internalID: -8881646561869965819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuyFall_Fish2_4
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 4744
+        width: 766
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d68ffd33d6cbd4a0800000000000000
+      internalID: -6567437021009180971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuyFall_Fish2_5
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3628
+        width: 329
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f2bd52a2f9f76a0800000000000000
+      internalID: -6449261137998696596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuyFall_Fish2_6
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 3560
+        width: 187
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d64572f57db62350800000000000000
+      internalID: 5991684668539619030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuyFall_Fish2_7
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 3734
+        width: 238
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ba4cfa89db361c0800000000000000
+      internalID: -4511553938213524610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuyFall_Fish2_8
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 3742
+        width: 212
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faf63f064d323fa0800000000000000
+      internalID: -5822523997124363535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuyFall_Fish2_9
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 3305
+        width: 141
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0eba929e9fd3870800000000000000
+      internalID: 8664356037952528637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuyFall_Fish2_10
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 3410
+        width: 128
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee421a66d5d09eba0800000000000000
+      internalID: -6059297128845335314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GuyFall_Fish2_0: -1841760292373471416
+      GuyFall_Fish2_1: -5969088697364554456
+      GuyFall_Fish2_10: -6059297128845335314
+      GuyFall_Fish2_2: -2414668263017660731
+      GuyFall_Fish2_3: -8881646561869965819
+      GuyFall_Fish2_4: -6567437021009180971
+      GuyFall_Fish2_5: -6449261137998696596
+      GuyFall_Fish2_6: 5991684668539619030
+      GuyFall_Fish2_7: -4511553938213524610
+      GuyFall_Fish2_8: -5822523997124363535
+      GuyFall_Fish2_9: 8664356037952528637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
