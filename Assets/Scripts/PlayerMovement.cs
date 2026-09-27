@@ -22,4 +22,13 @@ public class PlayerMovement : MonoBehaviour
         Vector2 direction = new Vector2(xinput, 0).normalized;
         body.linearVelocity = direction * speed;
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Killbox"))
+        {
+          
+            DeathSystem.instance.EnableDeathScreen();
+        }
+    }
 }
